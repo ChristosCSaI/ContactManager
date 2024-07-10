@@ -32,9 +32,9 @@ A simple contact management application built with Laravel.
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=your_database_name
-    DB_USERNAME=your_database_username
-    DB_PASSWORD=your_database_password
+    DB_DATABASE=contacts_manager
+    DB_USERNAME=
+    DB_PASSWORD=
     ```
 
 4. **Generate an application key:**
