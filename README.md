@@ -8,7 +8,7 @@ A simple contact management application built with Laravel.
 
     ```bash
     git clone https://github.com/ChristosCSaI/ContactManager.git
-    cd ContactManager
+    cd contact-manager
     ```
 
 2. **Install dependencies:**
